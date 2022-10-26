@@ -1,0 +1,107 @@
+.navicon {
+    color: rgba(255, 255, 255, 0.726);
+    padding: 0px 10px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navicon :hover {
+    color: white;
+}
+
+.navstyle {
+    background-color: rgb(51, 49, 49);
+}
+
+.link-txt {
+    text-decoration: none;
+    color: black;
+}
+
+.link-txt:hover {
+    color: blue;
+}
+
+.txt-mid {
+    background-color: rgba(241, 235, 235, 0.562);
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+#learn-more, #learn-more2 {
+    text-decoration: none;
+    
+}
+
+#learn-more:hover , #learn-more2:hover {
+    text-decoration: underline;
+}
+
+#new {
+    text-align: center;
+    margin-top: 80px;
+    font-weight: 700;
+    border-color: #bf4800;
+    color: #f56300;
+    font-size: 17px;
+}
+
+#big {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 65px;
+    background: -webkit-linear-gradient(rgb(103, 216, 173) 30%, rgb(70, 110, 221), rgb(226, 68, 68));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.button1 {
+    cursor: pointer;
+    font-size: 17px;
+    line-height: 1.17648;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    border-radius: 30px;
+    padding-right: 18px;
+    padding-left: 18px;
+}
+
+#lm-2 {
+    margin-left: 30px;
+}
+
+.tb-css {
+    margin-left: 25%;
+    margin-top: 50px;
+    font-size: small;
+}
+
+.font-1 {
+    font-size: 56px;
+    line-height: 1.07143;
+    font-weight: 600;
+    letter-spacing: -.005em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.font-2 {
+    text-align: center;
+    font-size: 28px;
+    line-height: 1.14286;
+    font-weight: 550;
+    letter-spacing: .007em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+    display: block;
+    margin-bottom: 0.4em;
+    margin-top: -10px;
+}
+
+.font-3 {
+    margin-top: 15px;
+    text-align: center;
+} 

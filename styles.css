@@ -1,0 +1,183 @@
+.navicon {
+    color: rgba(255, 255, 255, 0.726);
+    padding: 0px 10px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navicon :hover {
+    color: white;
+}
+
+.navstyle {
+    background-color: rgb(51, 49, 49);
+}
+
+.padmenu {
+    background-color: black;
+}
+
+.ipadhover {
+    cursor: pointer;
+    color: white;
+    margin-right: 50px;
+}
+
+.ipadhover:hover {
+    color: #2997ff;
+}
+
+.newfont {
+    border-color: #bf4800;
+    color: #f56300;
+    font-size: 12px;
+    text-align: center;
+    margin-top: -5px;
+}
+
+.lm-menu {
+    background-color: #1d1d1f;
+    color: white;
+    padding: 9px 0;
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.lm-font {
+    text-decoration: none;
+}
+
+.lm-font:hover {
+    text-decoration: underline;
+}
+
+.intro-div {
+    background-color: black;
+    color: white;
+    padding-bottom: 111px;
+}
+
+.intro-txt {
+    text-align: center;
+    font-size: 50px;
+    line-height: 1.07143;
+    font-weight: 600;
+    padding-top: 70px;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    letter-spacing: -3px;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+}
+
+.button-hv {
+    background-color: rgba(255, 255, 255, 0.918);
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.button-hv:hover {
+    background-color: white;
+}
+
+.buyipad {
+    margin-bottom: 111px;
+}
+
+.tag {
+    float: left;
+    position: absolute;
+    left: 1080px;
+    top: 900px;
+    z-index: 1000;
+ }
+
+ #new {
+    text-align: center;
+    font-weight: 700;
+    border-color: #bf4800;
+    color: #f56300;
+    font-size: 13px;
+}
+
+.font-1 {
+    font-size: 56px;
+    line-height: 1.07143;
+    font-weight: 600;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.font-2 {
+    text-align: center;
+    font-size: 24px;
+    line-height: 1.16667;
+    font-weight: 600;
+    letter-spacing: .009em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+    display: block;
+    margin-bottom: 0.4em;
+    margin-top: -10px;
+}
+
+.font-3 {
+    margin-top: 15px;
+    text-align: center;
+} 
+
+.font-4 {
+    text-align: center;
+    color: #86868b;
+    margin-top: -4px;
+    margin-bottom: 7px
+}
+
+.button2 {
+    cursor: pointer;
+    font-size: 17px;
+    color: #fff;
+    
+    border-radius: 30px;
+    padding-right: 18px;
+    padding-left: 18px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color:#0071e3;
+    border: none;
+}
+
+.button2:hover {
+    background-color: #0071e3ec;
+}
+
+#lm-2 {
+    margin-left: 61px;
+    font-size: 17px;
+}
+
+.whitespace {
+    height: 20px;
+}
+
+
+
+#learn-more, #learn-more2 {
+    text-decoration: none;
+    
+}
+
+#learn-more:hover , #learn-more2:hover {
+    text-decoration: underline;
+}
+
+.seperator {
+    width: 1100px;
+}
+
+.cards {
+    margin-left: 400px;
+}

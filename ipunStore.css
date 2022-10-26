@@ -1,0 +1,90 @@
+.store {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.store2 {
+    color: #6e6e73;
+}
+
+.store, .store2 {
+    font-size: 46px;
+    font-weight: 600;
+}
+
+.navicon {
+    color: rgba(255, 255, 255, 0.726);
+    padding: 0px 10px;
+}
+
+.navicon :hover {
+    color: white;
+}
+
+.navstyle {
+    background-color: rgb(51, 49, 49);
+}
+
+.f-line {
+    margin-top: 50px;
+}
+
+.pos {
+    margin-top: -22px;
+}
+
+.pos2 {
+    margin-top: 70px;
+    margin-left: 400px;
+}
+
+#specialist-pic {
+    margin-top: 90px;
+    margin-left: 180px;
+}
+
+#txtpos {
+    font-weight: 500;
+    margin-left: 5px;
+}
+
+.storevisit {
+    margin-top: 7px;
+    margin-left: 180px;
+}
+
+.txt1 {
+    margin-left: 5px;
+}
+
+.card-title {
+    margin-top: 250px;
+    margin-left: 400px;
+}
+
+.cards {
+    margin-left: 400px;
+    margin-top: 20px;
+}
+
+div.scrollmenu {
+    overflow: auto;
+    white-space: nowrap;
+
+  }
+
+div.scrollmenu a {
+    display: inline-block;
+}
+
+.button-style {
+    background-color: rgba(128, 128, 128, 0.192);
+    border-radius: 20px;
+}
+
+.button-style:hover {
+    background-color: rgba(128, 128, 128, 0.507);
+}
+
+.seperator {
+    width: 1100px;
+}

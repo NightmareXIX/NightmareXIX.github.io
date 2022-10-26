@@ -1,0 +1,71 @@
+.navicon {
+    color: rgba(255, 255, 255, 0.726);
+    padding: 0px 10px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navicon :hover {
+    color: white;
+}
+
+.navstyle {
+    background-color: rgb(51, 49, 49);
+}
+
+.link-txt {
+    text-decoration: none;
+    color: black;
+}
+
+.link-txt:hover {
+    color: blue;
+}
+
+.txt-mid {
+    background-color: rgba(241, 235, 235, 0.562);
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+#learn-more, #learn-more2 {
+    text-decoration: none;
+    
+}
+
+#learn-more:hover , #learn-more2:hover {
+    text-decoration: underline;
+}
+
+#new {
+    text-align: center;
+    margin-top: 80px;
+    color: rgb(138, 138, 138);
+}
+
+#big {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 65px;
+    background: -webkit-linear-gradient(rgb(103, 216, 173) 30%, rgb(70, 110, 221), rgb(226, 68, 68));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.button1 {
+    padding: 1px 25px;
+}
+
+#lm-2 {
+    margin-left: 30px;
+}
+
+.tb-css {
+    margin-left: 25%;
+    margin-top: 50px;
+    font-size: small;
+}
